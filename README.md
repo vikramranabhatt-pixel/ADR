@@ -1,12 +1,13 @@
 # ADR
 
-Architecture Decision Record (ADR) – Financial Services Grade
-ADR Template (Optimized for Regulated Banks)
+**Architecture Decision Record (ADR) – Financial Services Grade**
+
+**ADR Template (Optimized for Regulated Banks)**
 1. Title
 
 Clear, unique, and decision-oriented.
 
-ADR-014: Standardize External API Ingress Using AWS API Gateway
+**ADR-014: Standardize External API Ingress Using AWS API Gateway**
 
 2. Status
 
